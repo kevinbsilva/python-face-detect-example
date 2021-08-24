@@ -1,0 +1,5 @@
+__pycache__/
+resources/video.mp4
+DOCKERFILE
+logs/
+reports/
