@@ -3,3 +3,4 @@ resources/video.mp4
 DOCKERFILE
 logs/
 reports/
+.idea/
